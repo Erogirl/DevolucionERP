@@ -1,0 +1,6 @@
+C:\Users\carlanovella\source\repos\DevolucionERP\DevolucionERP\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+C:\Users\carlanovella\source\repos\DevolucionERP\DevolucionERP\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+C:\Users\carlanovella\source\repos\DevolucionERP\DevolucionERP\obj\Release\netcoreapp2.1\PubTmp\Out\DevolucionERP.dll
+C:\Users\carlanovella\source\repos\DevolucionERP\DevolucionERP\obj\Release\netcoreapp2.1\PubTmp\Out\DevolucionERP.runtimeconfig.json
+C:\Users\carlanovella\source\repos\DevolucionERP\DevolucionERP\obj\Release\netcoreapp2.1\PubTmp\Out\DevolucionERP.pdb
+C:\Users\carlanovella\source\repos\DevolucionERP\DevolucionERP\obj\Release\netcoreapp2.1\PubTmp\Out\DevolucionERP.deps.json
